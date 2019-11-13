@@ -81,6 +81,7 @@ body {
 	height: 40px;
 	border: 1px solid #2c71b8;
 	margin: 5px 0 0 30px;
+	position: relative;
 }
 
 .search input {
@@ -108,6 +109,9 @@ body {
 	width: 30px;
 	height: 30px;
 	margin-top: 4px;
+	position: absolute;
+	top: 0;
+	right: 5px;
 }
 
 .cart {
